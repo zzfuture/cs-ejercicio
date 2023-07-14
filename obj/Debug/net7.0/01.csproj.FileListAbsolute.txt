@@ -1,0 +1,30 @@
+/home/apolm02-021/Desktop/IKER/dotnet/01/bin/Debug/net7.0/01
+/home/apolm02-021/Desktop/IKER/dotnet/01/bin/Debug/net7.0/01.deps.json
+/home/apolm02-021/Desktop/IKER/dotnet/01/bin/Debug/net7.0/01.runtimeconfig.json
+/home/apolm02-021/Desktop/IKER/dotnet/01/bin/Debug/net7.0/01.dll
+/home/apolm02-021/Desktop/IKER/dotnet/01/bin/Debug/net7.0/01.pdb
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.csproj.AssemblyReference.cache
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.AssemblyInfoInputs.cache
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.AssemblyInfo.cs
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.csproj.CoreCompileInputs.cache
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.dll
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/refint/01.dll
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.pdb
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/01.genruntimeconfig.cache
+/home/apolm02-021/Desktop/IKER/dotnet/01/obj/Debug/net7.0/ref/01.dll
+E:\PROGRAMACION\NET CORE\01\bin\Debug\net7.0\01.exe
+E:\PROGRAMACION\NET CORE\01\bin\Debug\net7.0\01.deps.json
+E:\PROGRAMACION\NET CORE\01\bin\Debug\net7.0\01.runtimeconfig.json
+E:\PROGRAMACION\NET CORE\01\bin\Debug\net7.0\01.dll
+E:\PROGRAMACION\NET CORE\01\bin\Debug\net7.0\01.pdb
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.csproj.AssemblyReference.cache
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.AssemblyInfoInputs.cache
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.AssemblyInfo.cs
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.dll
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\refint\01.dll
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.pdb
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\01.genruntimeconfig.cache
+E:\PROGRAMACION\NET CORE\01\obj\Debug\net7.0\ref\01.dll
